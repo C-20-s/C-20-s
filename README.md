@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Ch Ethan Nemmadhi  
+# 👋 Hey there, I’m Chethan Nemmadhi  
 **Business & Data Analyst** | Jersey City, NJ | [cheynemmadhi@gmail.com](cheynemmadhi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chethan-nemmadhi/)
 
 Driven by data and powered by insights—I’m passionate about turning raw information into clear, actionable results that help teams make smarter decisions. With a strong hybrid background in data analytics and business strategy, I build dashboards, automate workflows, and drive improvements in operations, finance, compliance, and forecasting.
